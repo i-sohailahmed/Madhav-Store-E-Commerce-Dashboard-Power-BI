@@ -71,14 +71,7 @@ Contains:
 - Payment Mode
 - Average Order Value (AOV)
 
-Relationship:
 
-```
-Orders (1)
-      │
-      │ Order ID
-      │
-Details (*)
 ```
 
 ---
